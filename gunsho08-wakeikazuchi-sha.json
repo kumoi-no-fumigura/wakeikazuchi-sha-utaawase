@@ -4,7 +4,12 @@
  "repo": "kumoi-no-fumigura/wakeikazuchi-sha-utaawase",
  "yomi": "わけいかずちしゃうたあわせ",
  "category": "歌合",
- "description": null,
+ "description": {
+  "kind": "歌合（三題・各三十番）",
+  "era": "治承2年（1178）3月15日",
+  "author": "主催 賀茂重保／判者 藤原俊成",
+  "desc": "賀茂別雷社（上賀茂社）の神主賀茂重保が企てた歌合。霞・花・述懐の三題で六十人の歌人が左右に分かれて詠み、釈阿（俊成）が判をした。"
+ },
  "editions": [
   {
    "pid": "1879502",
